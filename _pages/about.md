@@ -34,7 +34,7 @@ redirect_from:
 
 # 🎓 学历
 - *2025.02 - 2026.02*, <a href="http://nus.edu.sg/"><img class="svg" src="https://www.nus.edu.sg/images/default-source/identity-images/nus-hlogo-color.png" width="23pt"></a> 新加坡国立大学（2024年QS世界大学排名第8，土木工程专业QS排名位列第4） Department of Civil and Environmental Engineering,  岩土工程系 师从Pin Zhang教授（英国皇家学会牛顿国际学者，入选2023、2024年全球前2%顶尖科学家榜单）
-<div><img src='images/nus-photo.svg' alt="sym" width="80%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/nus-photo.svg' alt="sym" width="80%"></div>
 - *2022.09 - 2026.06*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="23pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 攻读博士研究生 ,师从环境与土木工程学院院长李天斌教授（俄罗斯自然科学院院士，四川省人大常委会委员）
 - *2019.09 - 2022.6*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="23pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 推免攻读硕士研究生 
 - *2015.09 - 2019.06*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="20pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 本科
@@ -123,20 +123,20 @@ redirect_from:
 
 # 🏛️ 学术会议
 - *2024.11*, 第十二届全国工程地质大会 , 广东深圳, 受邀报告，获“优秀研究生报告奖”
-<div><img src='images/gongchengdizhi.svg' alt="sym" width="100%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/gongchengdizhi.svg' alt="sym" width="100%"></div>
 - *2023.10*, 2023中国隧道与地下工程大会（CTUC）暨中国土木工程学会隧道及地下工程分会第二十三届年会, 四川成都, 报告 [[新闻]](https://mp.weixin.qq.com/s/pvhMtcXdD0IVJtVvHVLjGg)  
 - *2023.09*, 第十四届国际工程地质与环境大会 (IAEG XIV Congress 2023), 受邀报告, 四川成都
-<div><img src='images/IAEG.svg' alt="sym" width="80%"></div>
-<div><img src='images/IAEG2.svg' alt="sym" width="100%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/IAEG.svg' alt="sym" width="80%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/IAEG2.svg' alt="sym" width="100%"></div>
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
 - *2019.07 - 至今*, 基于机器学习的隧道围岩智能分级及稳定性智能评估项目，承担“基于指标体系的隧道围岩智能分级”研究任务，提出“基于优化独热编码的围岩智能分级方法”，该方法预测准确率高达93%；承担“基于图像隧道围岩智能分级”研究任务，提出“DeepIntactness + I-RBI围岩完整程度定量分级方法”。经验证，该方法结果与规范方法结果高度吻合；承担”图像的隧道围岩稳定性智能评估项目”，提出基于点云及SAM-ZRTM-ConvLSTM的掌子面岩体不连续面智能预测技术。经验证，该方法结果与开挖结果高度吻合；承担”图像的隧道围岩稳定性智能评估项目”，完成基于多模态的智能勘察-施工-决策全流程智能助手TESSERACT大模型开发，目前模型已在国内大模型平台ModelScope开源；
 - *2023.11 - 2024.03*, YX水电站平硐智能编录，现场三维激光扫描，智能编录，基于图像的平硐三维重构算法开发；基于多模态的智能编录DC大模型开发；
-<div><img src='images/takepicture.svg' alt="sym" width="100%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/takepicture.svg' alt="sym" width="100%"></div>
 - *2018.07 - 2020.06*, 色季拉山隧道-捌弄曲斜井智能建造项目，现场三维激光扫描，智能编录，基于图像的隧道掌子面稳定性智能评估；TBM施工隧道多源异构数据智能融合算法研发；
-<div><img src='images/sejilashan.svg' alt="sym" width="100%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/sejilashan.svg' alt="sym" width="100%"></div>
 - *2020.11 - 2020.12*, 峨边-汉源高速大峡谷隧道微震监测，参与隧道现场微震监测工作;协助现场仪器布设，负责信号采集、分析、处理并形成监测报告；
 - *2020.07 - 2020.10*, 绵阳-九寨沟高速隧道超前地质预报，参与隧道现场TSP、地质雷达的现场预报工作；负责处理相关数据并编写预报文件;
 - *2020.09 - 2021.06*, 基于深度学习的隧道智能超前地质预报研究项目， 协助“岩溶隧道探地雷达超前地质预报的智能解译”研究任务，完成了岩溶隧道雷达图像智能解译方法研究，将YOLOv4框架应用于岩溶隧道雷达图特征识别；
@@ -159,9 +159,10 @@ redirect_from:
 #  兴趣爱好
 - *编程*
 - *小提琴*
-<div><img src='images/violin.svg' alt="sym" width="100%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="100%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
