@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/YangGang-CE/"
+  github           : "YangGang-CE"
   google_plus      :
   keybase          :
   instagram        :
@@ -161,3 +161,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
