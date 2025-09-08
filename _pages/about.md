@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <div style="display: flex; justify-content: center; font-size: 18px;"> 地质资源与地质工程（双一流学科）</div>
-<div style="display: flex; justify-content: center; font-size: 18px;"> 新加坡国立大学-成都理工大学联合培养博士研究生</div>
+<div style="display: flex; justify-content: center; font-size: 18px;"> 新加坡国立大学-成都理工大学联合培养博士</div>
 <div style="display: flex; justify-content: center; font-size: 18px;"> 中国共产党党员</div>
 
 研究领域包括：
@@ -44,12 +44,11 @@ redirect_from:
 - *2022.09 - 2026.06*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="23pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 攻读博士研究生 ,师从环境与土木工程学院院长李天斌教授（俄罗斯自然科学院院士，四川省人大常委会委员）
 - *2019.09 - 2022.6*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="23pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 推免攻读硕士研究生 
 - *2015.09 - 2019.06*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="20pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 本科
- 
 <span class='anchor' id='-lwzl'></span>
-包括合著，已经发表多篇学术论文
- <a href='https://www.researchgate.net/profile/Yang-Gang-36'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
-# 📝 论文专利
 
+# 📝 论文专利
+包括合著，已经发表多篇学术论文。
+ <a href='https://www.researchgate.net/profile/Yang-Gang-36'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
 ### 英文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/SAM-ZRTM-ConvLSTM.svg' alt="sym" width="100%"></div></div>
@@ -163,6 +162,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="100%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
