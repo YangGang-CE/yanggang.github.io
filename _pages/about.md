@@ -16,10 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-地质资源与地质工程（双一流学科）<br>
-新加坡国立大学-成都理工大学联合培养博士研究生<br>
-中国共产党党员<br>
+<div style="display: flex; justify-content: center; font-size: 24px;"> 地质资源与地质工程（双一流学科）</div>
+<div style="display: flex; justify-content: center; font-size: 24px;"> 新加坡国立大学-成都理工大学联合培养博士研究生</div>
+<div style="display: flex; justify-content: center; font-size: 24px;"> 中国共产党党员地质资源与地质工程（双一流学科）</div>
 
 研究领域包括：
 - 隧道工程
@@ -132,7 +131,11 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2019.07 - 至今*, 基于机器学习的隧道围岩智能分级及稳定性智能评估项目，承担“基于指标体系的隧道围岩智能分级”研究任务，提出“基于优化独热编码的围岩智能分级方法”，该方法预测准确率高达93%；承担“基于图像隧道围岩智能分级”研究任务，提出“DeepIntactness + I-RBI围岩完整程度定量分级方法”。经验证，该方法结果与规范方法结果高度吻合；承担”图像的隧道围岩稳定性智能评估项目”，提出基于点云及SAM-ZRTM-ConvLSTM的掌子面岩体不连续面智能预测技术。经验证，该方法结果与开挖结果高度吻合；承担”图像的隧道围岩稳定性智能评估项目”，完成基于多模态的智能勘察-施工-决策全流程智能助手TESSERACT大模型开发，目前模型已在国内大模型平台ModelScope开源；
+- *2019.07 - 至今*, 基于机器学习的隧道围岩智能分级及稳定性智能评估项目.
+- 承担“基于指标体系的隧道围岩智能分级”研究任务，提出“基于优化独热编码的围岩智能分级方法”，该方法预测准确率高达93%；
+- 承担“基于图像隧道围岩智能分级”研究任务，提出“DeepIntactness + I-RBI围岩完整程度定量分级方法”。经验证，该方法结果与规范方法结果高度吻合；
+- 承担”图像的隧道围岩稳定性智能评估项目”，提出基于点云及SAM-ZRTM-ConvLSTM的掌子面岩体不连续面智能预测技术。经验证，该方法结果与开挖结果高度吻合；
+- 承担”图像的隧道围岩稳定性智能评估项目”，完成基于多模态的智能勘察-施工-决策全流程智能助手TESSERACT大模型开发，目前模型已在国内大模型平台ModelScope开源；
 - *2023.11 - 2024.03*, YX水电站平硐智能编录，现场三维激光扫描，智能编录，基于图像的平硐三维重构算法开发；基于多模态的智能编录DC大模型开发；
 <div style="display: flex; justify-content: center;"><img src='images/takepicture.svg' alt="sym" width="100%"></div>
 - *2018.07 - 2020.06*, 色季拉山隧道-捌弄曲斜井智能建造项目，现场三维激光扫描，智能编录，基于图像的隧道掌子面稳定性智能评估；TBM施工隧道多源异构数据智能融合算法研发；
@@ -162,6 +165,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="100%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
