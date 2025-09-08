@@ -126,7 +126,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/gongchengdizhi.svg' alt="sym" width="100%"></div>
 - *2023.10*, 2023中国隧道与地下工程大会（CTUC）暨中国土木工程学会隧道及地下工程分会第二十三届年会, 四川成都, 报告 [[新闻]](https://mp.weixin.qq.com/s/pvhMtcXdD0IVJtVvHVLjGg)  
 - *2023.09*, 第十四届国际工程地质与环境大会 (IAEG XIV Congress 2023), 受邀报告, 四川成都
-<div style="display: flex; justify-content: center;"><img src='images/IAEG.svg' alt="sym" width="80%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/IAEG.svg' alt="sym" width="100%"></div>
 <div style="display: flex; justify-content: center;"><img src='images/IAEG2.svg' alt="sym" width="100%"></div>
 
 <span class='anchor' id='-gzsx'></span>
@@ -162,6 +162,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="100%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
