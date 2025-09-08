@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <div style="display: flex; justify-content: center; font-size: 18px;"> 地质资源与地质工程（双一流学科）</div>
-<div style="display: flex; justify-content: center; font-size: 16px;"> 新加坡国立大学-成都理工大学联合培养博士研究生</div>
-<div style="display: flex; justify-content: center; font-size: 14px;"> 中国共产党党员地质资源与地质工程（双一流学科）</div>
+<div style="display: flex; justify-content: center; font-size: 18px;"> 新加坡国立大学-成都理工大学联合培养博士研究生</div>
+<div style="display: flex; justify-content: center; font-size: 18px;"> 中国共产党党员地质资源与地质工程（双一流学科）</div>
 
 研究领域包括：
 - 隧道工程
@@ -159,12 +159,18 @@ redirect_from:
 - *注册岩土工程师基础考试*，通过
 - *一级注册结构工程师基础考试*，通过
 
+#  语言能力
+- *英语四级*（540分）
+- *英语六级*（494分）
+-  熟练进行英语听，说，读，写，译
+
 #  兴趣爱好
 - *编程*
 - *小提琴*
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="100%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
