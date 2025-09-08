@@ -37,7 +37,7 @@ redirect_from:
 
 # 🎓 学历
 - *2025.02 - 2026.02*, <a href="http://nus.edu.sg/"><img class="svg" src="https://www.nus.edu.sg/images/default-source/identity-images/nus-hlogo-color.png" width="23pt"></a> 新加坡国立大学（2024年QS世界大学排名第8，土木工程专业QS排名位列第4） Department of Civil and Environmental Engineering,  岩土工程系 师从Pin Zhang教授（英国皇家学会牛顿国际学者，入选2023、2024年全球前2%顶尖科学家榜单）
-<div><img src='images/nus-photo.svg' alt="sym" width="50%"></div>
+<div><img src='images/nus-photo.svg' alt="sym" width="80%"></div>
 - *2022.09 - 2026.06*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="23pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 攻读博士研究生 ,师从环境与土木工程学院院长李天斌教授（俄罗斯自然科学院院士，四川省人大常委会委员）
 - *2019.09 - 2022.6*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="23pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 推免攻读硕士研究生 
 - *2015.09 - 2019.06*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="20pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 本科
@@ -164,4 +164,5 @@ redirect_from:
 <div><img src='images/violin.svg' alt="sym" width="100%"></div>
 - *软笔书法*
 - *篮球*
+
 
