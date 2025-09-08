@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 <div style="display: flex; justify-content: center; font-size: 18px;"> 地质资源与地质工程（双一流学科）</div>
 <div style="display: flex; justify-content: center; font-size: 18px;"> 新加坡国立大学-成都理工大学联合培养博士研究生</div>
-<div style="display: flex; justify-content: center; font-size: 18px;"> 中国共产党党员地质资源与地质工程（双一流学科）</div>
+<div style="display: flex; justify-content: center; font-size: 18px;"> 中国共产党党员</div>
 
 研究领域包括：
 - 隧道工程
@@ -30,6 +30,13 @@ redirect_from:
 - 主动学习
 - 数据同化
 <span class='anchor' id='-xl'></span>
+
+# 💻 专业技能
+- *机器学习与深度学习*， 精通TensorFlow、PyTorch等主流深度学习框架，熟悉CNN、RNN、Transformer等神经网络模型，具备图像识别、自然语言处理等项目的开发经验。
+- *数据科学与分析*， 熟练运用Python及相关库（Pandas、NumPy、Scikit-learn等）进行数据清洗、特征工程、模型训练与评估，具备数据分析与挖掘能力。
+- *大模型（LLM）与生成式AI*， 熟悉大语言模型（如GPT、BERT）的原理、应用与微调（Fine-tuning）技术，能够运用LangChain、Hugging Face等工具进行应用开发与部署，实现智能问答、内容生成等任务。
+- *软件开发*，熟悉Python、Java等编程语言，具备良好的软件工程实践，能够独立完成模块开发与项目部署。
+- *项目经验*，参与过智能推荐系统、计算机视觉、智能问答系统等项目，具备将AI技术应用于实际业务场景的能力。学习框架，能灵活应用于工作生产。
 
 # 🎓 学历
 - *2025.02 - 2026.02*, <a href="http://nus.edu.sg/"><img class="svg" src="https://www.nus.edu.sg/images/default-source/identity-images/nus-hlogo-color.png" width="23pt"></a> 新加坡国立大学（2024年QS世界大学排名第8，土木工程专业QS排名位列第4） Department of Civil and Environmental Engineering,  岩土工程系 师从Pin Zhang教授（英国皇家学会牛顿国际学者，入选2023、2024年全球前2%顶尖科学家榜单）
@@ -97,20 +104,13 @@ redirect_from:
 - Pin Zhang, `Gang Yang`. Standardising Data-Driven Modelling of Soil Correlations: Application to Compressibility Index. (working paper, SCI submitted, 导师一作，学生二作) 
 </div>
 </div>
-
-
 ### 中文
 ---
-
 - 陈卫东, 李天斌, 黄音昊, `杨罡`，王皓, 肖华波. 隧道围岩分级特征智能识别及可视化研究. *铁道科学与工程学报*. 2024,21(01): 406-421. (EI期刊)  
 [[网页]](https://dx.doi.org/10.19713/j.cnki.43-1423/u.T20230214) 
 
 - 张欢, 张世殊, 李天斌, `杨罡`, 李世森, 肖华波, 陈卫东. 基于GAPSO-LightGBM的TBM施工隧道围岩等级智能预测方法. *现代隧道技术*. 2025，62(02): 98-109.  (核心期刊)  
 [[网页]](https://dx.doi.org/10.13807/j.cnki.mtt.2025.02.010)
-
-
-
-
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
@@ -146,14 +146,7 @@ redirect_from:
 - *2019.07 - 2019.11*, Ultra-Geo数智隧道项目筹备，组织“Ultra-Geo数智隧道”项目筹备工作; 负责项目计划书编写，演示文稿及介绍视频制作，现场答辩及各环节协调工作;
 - *2018.07 - 2020.06*, 都江堰-四姑娘山山地轨道交通数智隧道平台建设项目, 参与平台框架、功能模块规划设计；负责前端Cesium引擎部署，地质体模型、沿线建构筑物（BIM模型）、属性信息可视化展示；
 - *2020.11.25 - 2020.12.02*, 峨眉山唐河坝滑坡调查及滑坡治理, 唐河坝滑坡现场地质调查工作，绘制唐河坝滑坡工程地质剖面图（比例尺1:500）并编写滑坡勘察报告；负责进行现场岩土工程试验（点荷载试验、斜剪试验）并处理分析相关试验数据；负责根据调查资料及试验数据完成抗滑桩设计；
-- *2018.8 - 2018.9*, 峨眉山市黄湾地区地质调查, 参与完成峨眉山市黄湾区域9平方公里地质情况调查工作；负责处理相关数据，编写地质调查文件并完成综合工程地质图绘制；
-
-# 💻 专业技能
-- *机器学习与深度学习*， 精通TensorFlow、PyTorch等主流深度学习框架，熟悉CNN、RNN、Transformer等神经网络模型，具备图像识别、自然语言处理等项目的开发经验。
-- *数据科学与分析*， 熟练运用Python及相关库（Pandas、NumPy、Scikit-learn等）进行数据清洗、特征工程、模型训练与评估，具备数据分析与挖掘能力。
-- *大模型（LLM）与生成式AI*， 熟悉大语言模型（如GPT、BERT）的原理、应用与微调（Fine-tuning）技术，能够运用LangChain、Hugging Face等工具进行应用开发与部署，实现智能问答、内容生成等任务。
-- *软件开发*，熟悉Python、Java等编程语言，具备良好的软件工程实践，能够独立完成模块开发与项目部署。
-- *项目经验*，参与过智能推荐系统、计算机视觉、智能问答系统等项目，具备将AI技术应用于实际业务场景的能力。学习框架，能灵活应用于工作生产
+- *2018.8 - 2018.9*, 峨眉山市黄湾地区地质调查, 参与完成峨眉山市黄湾区域9平方公里地质情况调查工作；负责处理相关数据，编写地质调查文件并完成综合工程地质图绘制。
 
 # 💻 专业基础
 - *注册岩土工程师基础考试*，通过
@@ -170,6 +163,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="100%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
