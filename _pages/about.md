@@ -21,7 +21,7 @@ redirect_from:
 新加坡国立大学-成都理工大学联合培养博士研究生<br>
 中国共产党党员<br>
 
-我的研究领域包括：
+研究领域包括：
 - 隧道工程
 - 多模态大模型
 - 时空序列预测
@@ -30,9 +30,6 @@ redirect_from:
 - 围岩稳定性分析
 - 主动学习
 - 数据同化
-包括合著，已经发表多篇学术论文
- <a href='https://www.researchgate.net/profile/Yang-Gang-36'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
-
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
@@ -43,7 +40,8 @@ redirect_from:
 - *2015.09 - 2019.06*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="20pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 本科
  
 <span class='anchor' id='-lwzl'></span>
-
+包括合著，已经发表多篇学术论文
+ <a href='https://www.researchgate.net/profile/Yang-Gang-36'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 # 📝 论文专利
 
 ### 英文
@@ -164,5 +162,6 @@ redirect_from:
 <div><img src='images/violin.svg' alt="sym" width="100%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
