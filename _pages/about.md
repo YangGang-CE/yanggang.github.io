@@ -38,7 +38,7 @@ redirect_from:
 - *【隧道掌子面地质编录】*   具有扎实的隧道工程勘察基础，熟练掌握地质勘察数据分析、岩土体分类、岩体结构面调查与评价、地质建模。
 - *【岩土工程野外勘察】*    多次参加滑坡地质调查，熟练掌握边坡稳定性分析、极限平衡法。
 - *【数值模拟】*    精通有限元分析，扩展有限元分析，应用Matlab, Python代码实现裂隙岩体受荷响应数值模拟。
-- *【器学习与深度学习】*   精通TensorFlow、PyTorch等主流深度学习框架，熟悉CNN、RNN、Transformer等神经网络模型，具备图像识别、自然语言处理等项目的开发经验。
+- *【机器学习与深度学习】*   精通TensorFlow、PyTorch等主流深度学习框架，熟悉CNN、RNN、Transformer等神经网络模型，具备图像识别、自然语言处理等项目的开发经验。
 - *【数据科学与分析】*   熟练运用Python及相关库（Pandas、NumPy、Scikit-learn等）进行数据清洗、特征工程、模型训练与评估，具备数据分析与挖掘能力。
 - *【大模型（LLM）与生成式AI】*  熟悉大语言模型（如GPT、BERT）的原理、应用与微调（Fine-tuning）技术，能够运用LangChain、Hugging Face等工具进行应用开发与部署，实现智能问答、内容生成等任务。
 - *【软件开发】*  熟悉Python、Java等编程语言，具备良好的软件工程实践，能够独立完成模块开发与项目部署。
@@ -191,6 +191,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="80%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
