@@ -65,7 +65,7 @@ redirect_from:
 
 -	`Gang Yang`, Tianbin Li. Development of a 3D-point cloud-based spatiotemporal series model for tunnel rock mass discontinuities prediction. *Underground Space*, 2025, 22(9): 3587. (中科院1区Top; IF:8.3)  
 </div>
-</div><img src="images/3dtunnelface.gif" alt="3D Tunnel Face point cloud" width="50%">
+</div><img src="images/3dtunnelface.gif" alt="3D Tunnel Face point cloud" width="80%">
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DeepIntactness.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -95,7 +95,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 - `Gang Yang`, Tianbin Li, Huan Zhang, et al. A federated learning approach for TBM performance analysis and prediction based on driving parameters. (working paper, SCI submitted) 
 </div>
-</div><img src="images/TBM.gif" alt="TBM" width="50%">
+</div><img src="images/TBM.gif" alt="TBM" width="80%">
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TESSRACT.svg' alt="sym" width="100%"></div></div>
@@ -134,21 +134,21 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/gongchengdizhi.svg' alt="sym" width="50%"></div>
 - *2023.10*, 2023中国隧道与地下工程大会（CTUC）暨中国土木工程学会隧道及地下工程分会第二十三届年会, 四川成都, 报告 [[新闻]](https://mp.weixin.qq.com/s/pvhMtcXdD0IVJtVvHVLjGg)  
 - *2023.09*, 第十四届国际工程地质与环境大会 (IAEG XIV Congress 2023), 受邀报告, 四川成都
-<div style="display: flex; justify-content: center;"><img src='images/IAEG.svg' alt="sym" width="50%"></div>
-<div style="display: flex; justify-content: center;"><img src='images/IAEG2.svg' alt="sym" width="50%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/IAEG.svg' alt="sym" width="80%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/IAEG2.svg' alt="sym" width="80%"></div>
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
 - *2019.07 - 至今*, 基于机器学习的隧道围岩智能分级及稳定性智能评估项目.
-- 承担“基于指标体系的隧道围岩智能分级”研究任务，提出“基于优化独热编码的围岩智能分级方法”，该方法预测准确率高达93%；
-- 承担“基于图像隧道围岩智能分级”研究任务，提出“DeepIntactness + I-RBI围岩完整程度定量分级方法”。经验证，该方法结果与规范方法结果高度吻合；
-- 承担”图像的隧道围岩稳定性智能评估项目”，提出基于点云及SAM-ZRTM-ConvLSTM的掌子面岩体不连续面智能预测技术。经验证，该方法结果与开挖结果高度吻合；
-- 承担”图像的隧道围岩稳定性智能评估项目”，完成基于多模态的智能勘察-施工-决策全流程智能助手TESSERACT大模型开发，目前模型已在国内大模型平台ModelScope开源；
-- *2023.11 - 2024.03*, YX水电站平硐智能编录，现场三维激光扫描，智能编录，基于图像的平硐三维重构算法开发；基于多模态的智能编录DC大模型开发；
+-- 承担“基于指标体系的隧道围岩智能分级”研究任务，提出“基于优化独热编码的围岩智能分级方法”，该方法预测准确率高达93%；
+-- 承担“基于图像隧道围岩智能分级”研究任务，提出“DeepIntactness + I-RBI围岩完整程度定量分级方法”。经验证，该方法结果与规范方法结果高度吻合；
+-- 承担”图像的隧道围岩稳定性智能评估项目”，提出基于点云及SAM-ZRTM-ConvLSTM的掌子面岩体不连续面智能预测技术。经验证，该方法结果与开挖结果高度吻合；
+-- 承担”图像的隧道围岩稳定性智能评估项目”，完成基于多模态的智能勘察-施工-决策全流程智能助手TESSERACT大模型开发，目前模型已在国内大模型平台ModelScope开源；
+-- *2023.11 - 2024.03*, YX水电站平硐智能编录，现场三维激光扫描，智能编录，基于图像的平硐三维重构算法开发；基于多模态的智能编录DC大模型开发；
 <div style="display: flex; justify-content: center;"><img src='images/takepicture.svg' alt="sym" width="50%"></div>
 - *2018.07 - 2020.06*, 色季拉山隧道-捌弄曲斜井智能建造项目，现场三维激光扫描，智能编录，基于图像的隧道掌子面稳定性智能评估；TBM施工隧道多源异构数据智能融合算法研发；
-<div style="display: flex; justify-content: center;"><img src='images/sejilashan.svg' alt="sym" width="50%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/sejilashan.svg' alt="sym" width="80%"></div>
 - *2020.11 - 2020.12*, 峨边-汉源高速大峡谷隧道微震监测，参与隧道现场微震监测工作;协助现场仪器布设，负责信号采集、分析、处理并形成监测报告；
 - *2020.07 - 2020.10*, 绵阳-九寨沟高速隧道超前地质预报，参与隧道现场TSP、地质雷达的现场预报工作；负责处理相关数据并编写预报文件;
 - *2020.09 - 2021.06*, 基于深度学习的隧道智能超前地质预报研究项目， 协助“岩溶隧道探地雷达超前地质预报的智能解译”研究任务，完成了岩溶隧道雷达图像智能解译方法研究，将YOLOv4框架应用于岩溶隧道雷达图特征识别；
@@ -168,9 +168,9 @@ redirect_from:
 
 # 📊  社会实践
 - *2022.11 - 2024.11.*  成都理工大学环境与土木工程学院地质资源与地质工程博士生第二党支部书记
- · 领导力与组织协调： 负责支部日常管理，组织并策划20余场主题党日活动，包括理论学习、实践参观等，确保支部工作有序进行。
- · 沟通与团队管理： 作为支部核心成员，定期组织支部会议，有效沟通并协调15名支部成员的工作，确保各项任务高效完成。
- · 责任心与服务精神： 积极为支部成员解决学习和生活中的实际困难，协助他们与学院沟通，有效提升了支部成员的凝聚力。
+ · 领导力与组织协调： 负责支部日常管理，组织并策划20余场主题党日活动，包括理论学习、实践参观等，确保支部工作有序进行。<br>
+ · 沟通与团队管理： 作为支部核心成员，定期组织支部会议，有效沟通并协调15名支部成员的工作，确保各项任务高效完成。<br>
+ · 责任心与服务精神： 积极为支部成员解决学习和生活中的实际困难，协助他们与学院沟通，有效提升了支部成员的凝聚力。<br>
 
 # 🎉 兴趣爱好
 - *编程*
@@ -178,6 +178,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="50%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
