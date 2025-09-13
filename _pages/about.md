@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-<div style="display: flex; justify-content: center; font-size: 18px;"> 地质资源与地质工程（双一流学科）</div>
-<div style="display: flex; justify-content: center; font-size: 18px;"> 新加坡国立大学-成都理工大学联合培养博士</div>
-<div style="display: flex; justify-content: center; font-size: 18px;"> 中国共产党党员</div>
+# 地质资源与地质工程（双一流学科）
+# 新加坡国立大学-成都理工大学联合培养博士
+# 中国共产党党员
 
 研究领域包括：
 - 隧道工程
@@ -162,6 +162,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="100%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
