@@ -148,14 +148,14 @@ redirect_from:
 - *2019.07 - 至今*, 基于机器学习的隧道围岩智能分级及稳定性智能评估项目.
 -- 承担“基于指标体系的隧道围岩智能分级”研究任务，提出“基于优化独热编码的围岩智能分级方法”，该方法预测准确率高达93%；
 -- 承担“基于图像隧道围岩智能分级”研究任务，提出“DeepIntactness + I-RBI围岩完整程度定量分级方法”。经验证，该方法结果与规范方法结果高度吻合；
-<div style="display: flex; justify-content: center;"><img src='images/DeepIntactness1.svg' alt="sym" width="100%"></div>
-<div style="display: flex; justify-content: center;"><img src='images/DeepIntactness2.svg' alt="sym" width="100%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/DeepIntactness1.svg' alt="sym" width="80%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/DeepIntactness2.svg' alt="sym" width="80%"></div>
 -- 承担”图像的隧道围岩稳定性智能评估项目”，提出基于点云及SAM-ZRTM-ConvLSTM的掌子面岩体不连续面智能预测技术。经验证，该方法结果与开挖结果高度吻合；
 -- 承担”图像的隧道围岩稳定性智能评估项目”，完成基于多模态的智能勘察-施工-决策全流程智能助手TESSERACT大模型开发，目前模型已在国内大模型平台ModelScope开源；
-<div style="display: flex; justify-content: center;"><img src='images/zzmphoto1.svg' alt="sym" width="50%"></div>
-<div style="display: flex; justify-content: center;"><img src='images/zzmphoto2.svg' alt="sym" width="50%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/zzmphoto1.svg' alt="sym" width="80%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/zzmphoto2.svg' alt="sym" width="80%"></div>
 -- *2023.11 - 2024.03*, YX水电站平硐智能编录，现场三维激光扫描，智能编录，基于图像的平硐三维重构算法开发；基于多模态的智能编录DC大模型开发；
-<div style="display: flex; justify-content: center;"><img src='images/takepicture.svg' alt="sym" width="50%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/takepicture.svg' alt="sym" width="80%"></div>
 - *2018.07 - 2020.06*, 色季拉山隧道-捌弄曲斜井智能建造项目，现场三维激光扫描，智能编录，基于图像的隧道掌子面稳定性智能评估；TBM施工隧道多源异构数据智能融合算法研发；
 <div style="display: flex; justify-content: center;"><img src='images/sejilashan.svg' alt="sym" width="80%"></div>
 <div style="display: flex; justify-content: center;"><img src='images/classificationweb.svg' alt="sym" width="81%"></div>
@@ -164,7 +164,7 @@ redirect_from:
 - *2020.09 - 2021.06*, 基于深度学习的隧道智能超前地质预报研究项目， 协助“岩溶隧道探地雷达超前地质预报的智能解译”研究任务，完成了岩溶隧道雷达图像智能解译方法研究，将YOLOv4框架应用于岩溶隧道雷达图特征识别；
 <div style="display: flex; justify-content: center;"><img src='images/tsp.svg' alt="sym" width="80%"></div>
 <div style="display: flex; justify-content: center;"><img src='images/tsp2.svg' alt="sym" width="80%"></div>
-<div style="display: flex; justify-content: center;"><img src='images/radar.svg' alt="sym" width="50%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/radar.svg' alt="sym" width="80%"></div>
 - *2019.07 - 2019.11*, Ultra-Geo数智隧道项目筹备，组织“Ultra-Geo数智隧道”项目筹备工作; 负责项目计划书编写，演示文稿及介绍视频制作，现场答辩及各环节协调工作;最终与浙江省地质科创园发展有限公司签约落地。
 <div style="display: flex; justify-content: center;"><img src='images/dizhi+.svg' alt="sym" width="80%"></div>
 - *2018.07 - 2020.06*, 都江堰-四姑娘山山地轨道交通数智隧道平台建设项目, 参与平台框架、功能模块规划设计；负责前端Cesium引擎部署，地质体模型、沿线建构筑物（BIM模型）、属性信息可视化展示；
@@ -192,6 +192,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="50%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
