@@ -98,11 +98,11 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/TESSRACT.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TESSRACT.svg' alt="sym" width="100%"><video controls width="100%"><source src="videos/classification.mp4" type="video/mp4"></video></div></div>
 <div class='paper-box-text' markdown="1">
 - `Gang Yang`, Pin Zhang, Tianbin Li. TESSERACT: TEmporal rock mass Stress Simulation and Expert Reasoning Advice for tunnel Construction. (working paper, SCI submitted) 
 </div>
-</div><video controls width="100%"><source src="videos/classification.mp4" type="video/mp4"></video>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/renormalization1.svg' alt="sym" width="100%"><img src='images/renormalization2.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -192,6 +192,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="50%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
