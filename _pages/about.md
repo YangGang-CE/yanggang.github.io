@@ -188,9 +188,10 @@ redirect_from:
 # 🎉 兴趣爱好
 - *编程*
 - *小提琴*
-<div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="50%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="80%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
