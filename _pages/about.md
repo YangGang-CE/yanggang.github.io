@@ -60,12 +60,12 @@ redirect_from:
 ### 英文
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/SAM-ZRTM-ConvLSTM.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SAM-ZRTM-ConvLSTM.svg' alt="sym" width="100%"><img src="images/3dtunnelface.gif" alt="3D Tunnel Face point cloud" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Gang Yang`, Tianbin Li. Development of a 3D-point cloud-based spatiotemporal series model for tunnel rock mass discontinuities prediction. *Underground Space*, 2025, 22(9): 3587. (中科院1区Top; IF:8.3)  
 </div>
-</div><img src="images/3dtunnelface.gif" alt="3D Tunnel Face point cloud" width="80%">
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DeepIntactness.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -91,11 +91,11 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Federated_Learning.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Federated_Learning.svg' alt="sym" width="100%"><img src="images/TBM.gif" alt="TBM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - `Gang Yang`, Tianbin Li, Huan Zhang, et al. A federated learning approach for TBM performance analysis and prediction based on driving parameters. (working paper, SCI submitted) 
 </div>
-</div><img src="images/TBM.gif" alt="TBM" width="80%">
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TESSRACT.svg' alt="sym" width="100%"></div></div>
@@ -192,6 +192,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="50%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
