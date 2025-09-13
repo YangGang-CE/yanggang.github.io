@@ -148,8 +148,8 @@ redirect_from:
 - *2019.07 - 至今*, 基于机器学习的隧道围岩智能分级及稳定性智能评估项目.
 -- 承担“基于指标体系的隧道围岩智能分级”研究任务，提出“基于优化独热编码的围岩智能分级方法”，该方法预测准确率高达93%；
 -- 承担“基于图像隧道围岩智能分级”研究任务，提出“DeepIntactness + I-RBI围岩完整程度定量分级方法”。经验证，该方法结果与规范方法结果高度吻合；
-<div style="display: flex; justify-content: center;"><img src='images/DeepIntactness1.svg' alt="sym" width="50%"></div>
-<div style="display: flex; justify-content: center;"><img src='images/DeepIntactness2.svg' alt="sym" width="50%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/DeepIntactness1.svg' alt="sym" width="80%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/DeepIntactness2.svg' alt="sym" width="80%"></div>
 -- 承担”图像的隧道围岩稳定性智能评估项目”，提出基于点云及SAM-ZRTM-ConvLSTM的掌子面岩体不连续面智能预测技术。经验证，该方法结果与开挖结果高度吻合；
 -- 承担”图像的隧道围岩稳定性智能评估项目”，完成基于多模态的智能勘察-施工-决策全流程智能助手TESSERACT大模型开发，目前模型已在国内大模型平台ModelScope开源；
 <div style="display: flex; justify-content: center;"><img src='images/zzmphoto1.svg' alt="sym" width="50%"></div>
@@ -158,7 +158,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/takepicture.svg' alt="sym" width="50%"></div>
 - *2018.07 - 2020.06*, 色季拉山隧道-捌弄曲斜井智能建造项目，现场三维激光扫描，智能编录，基于图像的隧道掌子面稳定性智能评估；TBM施工隧道多源异构数据智能融合算法研发；
 <div style="display: flex; justify-content: center;"><img src='images/sejilashan.svg' alt="sym" width="80%"></div>
-<div style="display: flex; justify-content: center;"><img src='images/classificationweb.svg' alt="sym" width="80%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/classificationweb.svg' alt="sym" width="81%"></div>
 - *2020.11 - 2020.12*, 峨边-汉源高速大峡谷隧道微震监测，参与隧道现场微震监测工作;协助现场仪器布设，负责信号采集、分析、处理并形成监测报告；
 - *2020.07 - 2020.10*, 绵阳-九寨沟高速隧道超前地质预报，参与隧道现场TSP、地质雷达的现场预报工作；负责处理相关数据并编写预报文件;
 - *2020.09 - 2021.06*, 基于深度学习的隧道智能超前地质预报研究项目， 协助“岩溶隧道探地雷达超前地质预报的智能解译”研究任务，完成了岩溶隧道雷达图像智能解译方法研究，将YOLOv4框架应用于岩溶隧道雷达图特征识别；
@@ -166,7 +166,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/tsp2.svg' alt="sym" width="80%"></div>
 <div style="display: flex; justify-content: center;"><img src='images/radar.svg' alt="sym" width="50%"></div>
 - *2019.07 - 2019.11*, Ultra-Geo数智隧道项目筹备，组织“Ultra-Geo数智隧道”项目筹备工作; 负责项目计划书编写，演示文稿及介绍视频制作，现场答辩及各环节协调工作;最终与浙江省地质科创园发展有限公司签约落地。
-<div style="display: flex; justify-content: center;"><img src='images/dizhi+.svg' alt="sym" width="50%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/dizhi+.svg' alt="sym" width="80%"></div>
 - *2018.07 - 2020.06*, 都江堰-四姑娘山山地轨道交通数智隧道平台建设项目, 参与平台框架、功能模块规划设计；负责前端Cesium引擎部署，地质体模型、沿线建构筑物（BIM模型）、属性信息可视化展示；
 - *2020.11.25 - 2020.12.02*, 峨眉山唐河坝滑坡调查及滑坡治理, 唐河坝滑坡现场地质调查工作，绘制唐河坝滑坡工程地质剖面图（比例尺1:500）并编写滑坡勘察报告；负责进行现场岩土工程试验（点荷载试验、斜剪试验）并处理分析相关试验数据；负责根据调查资料及试验数据完成抗滑桩设计；
 - *2018.8 - 2018.9*, 峨眉山市黄湾地区地质调查, 参与完成峨眉山市黄湾区域9平方公里地质情况调查工作；负责处理相关数据，编写地质调查文件并完成综合工程地质图绘制。
@@ -192,6 +192,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="50%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
