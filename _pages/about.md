@@ -20,27 +20,33 @@ redirect_from:
 # 新加坡国立大学-成都理工大学联合培养博士
 # 中国共产党党员
 
+
 研究领域包括：
 - 隧道工程
-- 多模态大模型
-- 时空序列预测
-- 图像识别
 - 围岩分级
 - 围岩稳定性分析
+- 数值模拟（有限元，扩展有限元）
+- 图像识别
+- 三维重建
+- 多模态大模型
+- 时空序列预测
 - 主动学习
 - 数据同化
 <span class='anchor' id='-xl'></span>
 
+
 # 💻 专业技能
-- *机器学习与深度学习*， 精通TensorFlow、PyTorch等主流深度学习框架，熟悉CNN、RNN、Transformer等神经网络模型，具备图像识别、自然语言处理等项目的开发经验。
-- *数据科学与分析*， 熟练运用Python及相关库（Pandas、NumPy、Scikit-learn等）进行数据清洗、特征工程、模型训练与评估，具备数据分析与挖掘能力。
-- *大模型（LLM）与生成式AI*， 熟悉大语言模型（如GPT、BERT）的原理、应用与微调（Fine-tuning）技术，能够运用LangChain、Hugging Face等工具进行应用开发与部署，实现智能问答、内容生成等任务。
-- *软件开发*，熟悉Python、Java等编程语言，具备良好的软件工程实践，能够独立完成模块开发与项目部署。
-- *项目经验*，参与过智能推荐系统、计算机视觉、智能问答系统等项目，具备将AI技术应用于实际业务场景的能力。学习框架，能灵活应用于工作生产。
+- *隧道掌子面地质编录*   具有扎实的隧道工程勘察基础，熟练掌握地质勘察数据分析、岩土体分类、岩体结构面调查与评价、地质建模。
+- *岩土工程野外勘察*    多次参加滑坡地质调查，熟练掌握边坡稳定性分析、极限平衡法。
+- *数值模拟*    精通有限元分析，扩展有限元分析，应用Matlab, Python代码实现裂隙岩体受荷响应数值模拟。
+- *机器学习与深度学习*   精通TensorFlow、PyTorch等主流深度学习框架，熟悉CNN、RNN、Transformer等神经网络模型，具备图像识别、自然语言处理等项目的开发经验。
+- *数据科学与分析*   熟练运用Python及相关库（Pandas、NumPy、Scikit-learn等）进行数据清洗、特征工程、模型训练与评估，具备数据分析与挖掘能力。
+- *大模型（LLM）与生成式AI*  熟悉大语言模型（如GPT、BERT）的原理、应用与微调（Fine-tuning）技术，能够运用LangChain、Hugging Face等工具进行应用开发与部署，实现智能问答、内容生成等任务。
+- *软件开发*  熟悉Python、Java等编程语言，具备良好的软件工程实践，能够独立完成模块开发与项目部署。
+- *项目经验*  参与过智能推荐系统、计算机视觉、智能问答系统等项目，具备将AI技术应用于实际业务场景的能力。学习框架，能灵活应用于工作生产。
 
 # 🎓 学历
 - *2025.02 - 2026.02*, <a href="http://nus.edu.sg/"><img class="svg" src="https://www.nus.edu.sg/images/default-source/identity-images/nus-hlogo-color.png" width="23pt"></a> 新加坡国立大学（2024年QS世界大学排名第8，土木工程专业QS排名位列第4） Department of Civil and Environmental Engineering,  岩土工程系 师从Pin Zhang教授（英国皇家学会牛顿国际学者，入选2023、2024年全球前2%顶尖科学家榜单）
-<div style="display: flex; justify-content: center;"><img src='images/nus-photo.svg' alt="sym" width="50%"></div>
 - *2022.09 - 2026.06*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="23pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 攻读博士研究生 ,师从环境与土木工程学院院长李天斌教授（俄罗斯自然科学院院士，四川省人大常委会委员）
 - *2019.09 - 2022.6*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="23pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 推免攻读硕士研究生 
 - *2015.09 - 2019.06*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="20pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 本科
@@ -49,13 +55,15 @@ redirect_from:
 # 📝 论文专利
 包括合著，已经发表多篇学术论文。
  <a href='https://www.researchgate.net/profile/Yang-Gang-36'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
+
+---
 ### 英文
 ---
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/SAM-ZRTM-ConvLSTM.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Gang Yang`, Tianbin Li. Development of a 3D-point cloud-based spatiotemporal series model for tunnel rock mass discontinuities prediction. *Underground Space*, 2025, 22(9): 3587. (中科院1区Top; IF:8.3)  
-
 </div>
 </div><img src="images/3dtunnelface.gif" alt="3D Tunnel Face point cloud" width="50%">
 
@@ -97,7 +105,6 @@ redirect_from:
 </div><video controls width="100%"><source src="videos/classification.mp4" type="video/mp4"></video>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div></div></div>
 <div class='paper-box-text' markdown="1">
 - Pin Zhang, `Gang Yang`. Standardising Data-Driven Modelling of Soil Correlations: Application to Compressibility Index. (working paper, SCI submitted, 导师一作，学生二作) 
@@ -113,19 +120,22 @@ redirect_from:
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
-- *2015.11* 获得 第二届“地质+”全国创新创业大赛 `银奖（第一完成人）`  [[新闻]](https://mp.weixin.qq.com/s/YE_H2HVd4cLduBdzZzmfww)  
-- *2015.06* 获得 第五届四川省“互联网+”创新创业大赛 `银奖（第一完成人）` 
-- *2014.12* 获得 第五届四川省“互联网+”创新创业大赛 `银奖`  
+- *2018.07* 获得 成都理工大学“优秀共产党员”荣誉称号
+- *2019.11* 获得 第二届“地质+”全国创新创业大赛 `银奖（第一完成人）`  [[新闻]](https://mp.weixin.qq.com/s/YE_H2HVd4cLduBdzZzmfww)  
+- *2019.12* 获得 第五届四川省“互联网+”创新创业大赛 `银奖（第一完成人）` 
+- *2020.12* 获得 第六届四川省“互联网+”创新创业大赛 `银奖`
+- *2021.07* 获得 中国共产主义青年团四川省委员会和四川省学生联合会大学生综合素质“A级证书”
+- *2021.11* 获得 “四川省优秀毕业生”荣誉称号
 
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
 - *2024.11*, 第十二届全国工程地质大会 , 广东深圳, 受邀报告，获“优秀研究生报告奖”
-<div style="display: flex; justify-content: center;"><img src='images/gongchengdizhi.svg' alt="sym" width="100%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/gongchengdizhi.svg' alt="sym" width="50%"></div>
 - *2023.10*, 2023中国隧道与地下工程大会（CTUC）暨中国土木工程学会隧道及地下工程分会第二十三届年会, 四川成都, 报告 [[新闻]](https://mp.weixin.qq.com/s/pvhMtcXdD0IVJtVvHVLjGg)  
 - *2023.09*, 第十四届国际工程地质与环境大会 (IAEG XIV Congress 2023), 受邀报告, 四川成都
-<div style="display: flex; justify-content: center;"><img src='images/IAEG.svg' alt="sym" width="100%"></div>
-<div style="display: flex; justify-content: center;"><img src='images/IAEG2.svg' alt="sym" width="100%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/IAEG.svg' alt="sym" width="50%"></div>
+<div style="display: flex; justify-content: center;"><img src='images/IAEG2.svg' alt="sym" width="50%"></div>
 
 <span class='anchor' id='-gzsx'></span>
 
@@ -156,12 +166,19 @@ redirect_from:
 - *英语六级*（494分）
 -  熟练进行英语听，说，读，写，译
 
+# 📊  社会实践
+- *2022.11 - 2024.11.*  成都理工大学环境与土木工程学院地质资源与地质工程博士生第二党支部书记
+ · 领导力与组织协调： 负责支部日常管理，组织并策划20余场主题党日活动，包括理论学习、实践参观等，确保支部工作有序进行。
+ · 沟通与团队管理： 作为支部核心成员，定期组织支部会议，有效沟通并协调15名支部成员的工作，确保各项任务高效完成。
+ · 责任心与服务精神： 积极为支部成员解决学习和生活中的实际困难，协助他们与学院沟通，有效提升了支部成员的凝聚力。
+
 # 🎉 兴趣爱好
 - *编程*
 - *小提琴*
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="50%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
