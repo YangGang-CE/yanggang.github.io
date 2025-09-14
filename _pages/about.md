@@ -99,19 +99,19 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/TESSRACT.svg' alt="sym" width="100%"><video controls width="100%"><source src="videos/classification.mp4" type="video/mp4"></video></div></div>
 <div class='paper-box-text' markdown="1">
-- `Gang Yang`, Pin Zhang, Tianbin Li. TESSERACT: TEmporal rock mass Stress Simulation and Expert Reasoning Advice for tunnel Construction. (working paper, SCI submitted) 
+- `Gang Yang`, Pin Zhang, Tianbin Li. TESSERACT: TEmporal rock mass Stress Simulation and Expert Reasoning Advice for tunnel Construction.Automation in Construction. (working paper, SCI submitted) 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/renormalization1.svg' alt="sym" width="100%"><img src='images/renormalization2.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- `Gang Yang`, Tianbin Li. Renormalization-Inspired Modeling of Rock Mass Failure: An AI-Based Alternative to Graphical Methods with a Novel Stress-Transfer Configuration. (working paper, SCI submitted) 
+- `Gang Yang`, Tianbin Li. Renormalization-Inspired Modeling of Rock Mass Failure: An AI-Based Alternative to Graphical Methods with a Novel Stress-Transfer Configuration.Geomechanics and Geophysics for Geo-Energy and Geo-Resources.(working paper, SCI submitted) 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div></div></div>
 <div class='paper-box-text' markdown="1">
-- Pin Zhang, `Gang Yang`. Standardising Data-Driven Modelling of Soil Correlations: Application to Compressibility Index. (working paper, SCI submitted, 导师一作，学生二作) 
+- Pin Zhang, `Gang Yang`. Standardising Data-Driven Modelling of Soil Correlations: Application to Compressibility Index. Geotechnique.(working paper, SCI submitted, 导师一作，学生二作) 
 </div>
 </div>
 ### 中文
@@ -191,6 +191,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="80%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
