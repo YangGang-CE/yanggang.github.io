@@ -144,7 +144,7 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-- *2019.07 - 至今*, 基于机器学习的隧道围岩智能分级及稳定性智能评估项目.
+- *2019.07 - 至今*, 基于机器学习的隧道围岩智能分级及稳定性智能评估项目.<br>
 -- 承担“基于指标体系的隧道围岩智能分级”研究任务，提出“基于优化独热编码的围岩智能分级方法”，该方法预测准确率高达93%；<br>
 -- 承担“基于图像隧道围岩智能分级”研究任务，提出“DeepIntactness + I-RBI围岩完整程度定量分级方法”。经验证，该方法结果与规范方法结果高度吻合；
 <div style="display: flex; justify-content: center;"><img src='images/DeepIntactness1.svg' alt="sym" width="80%"></div>
@@ -191,6 +191,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="80%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
