@@ -42,12 +42,12 @@ redirect_from:
 - *【数据科学与分析】*   熟练运用Python及相关库（Pandas、NumPy、Scikit-learn等）进行数据清洗、特征工程、模型训练与评估，具备数据分析与挖掘能力。
 - *【大模型（LLM）与生成式AI】*  熟悉大语言模型（如GPT、BERT）的原理、应用与微调（Fine-tuning）技术，能够运用LangChain、Hugging Face等工具进行应用开发与部署，实现智能问答、内容生成等任务。
 - *【软件开发】*  熟悉Python、Java等编程语言，具备良好的软件工程实践，能够独立完成模块开发与项目部署。
-- *【项目经验】*  参与过智能推荐系统、计算机视觉、智能问答系统等项目，具备将AI技术应用于实际业务场景的能力。学习框架，能灵活应用于工作生产。
+- *【项目经验】*  参与过智能推荐系统、计算机视觉、智能问答系统等项目，具备将AI技术应用于实际业务场景的能力。
 
 # 🎓 学历
 - *2025.02 - 2026.02*, <a href="http://nus.edu.sg/"><img class="svg" src="https://www.nus.edu.sg/images/default-source/identity-images/nus-hlogo-color.png" width="23pt"></a> 新加坡国立大学（2024年QS世界大学排名第8，土木工程专业QS排名位列第4） Department of Civil and Environmental Engineering,  岩土工程系 师从Pin Zhang教授（英国皇家学会牛顿国际学者，入选2023、2024年全球前2%顶尖科学家榜单）
 - *2022.09 - 2026.06*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="23pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 攻读博士研究生 ,师从环境与土木工程学院院长李天斌教授（俄罗斯自然科学院院士，四川省人大常委会委员）
-- *2019.09 - 2022.6*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="23pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 推免攻读硕士研究生 
+- *2019.09 - 2022.6*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="23pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 推免攻读硕士研究生 ,师从李天斌教授
 - *2015.09 - 2019.06*, <a href="https://www.cdut.edu.cn/"><img class="svg" src="https://www.cdut.edu.cn/images/rr-t.png" width="20pt"></a> 成都理工大学 环境与土木工程学院, 四川成都, 本科
 <span class='anchor' id='-lwzl'></span>
 
@@ -145,11 +145,11 @@ redirect_from:
 
 # 💻 工作实习
 - *2019.07 - 至今*, 基于机器学习的隧道围岩智能分级及稳定性智能评估项目.
--- 承担“基于指标体系的隧道围岩智能分级”研究任务，提出“基于优化独热编码的围岩智能分级方法”，该方法预测准确率高达93%；
+-- 承担“基于指标体系的隧道围岩智能分级”研究任务，提出“基于优化独热编码的围岩智能分级方法”，该方法预测准确率高达93%；<br>
 -- 承担“基于图像隧道围岩智能分级”研究任务，提出“DeepIntactness + I-RBI围岩完整程度定量分级方法”。经验证，该方法结果与规范方法结果高度吻合；
 <div style="display: flex; justify-content: center;"><img src='images/DeepIntactness1.svg' alt="sym" width="80%"></div>
 <div style="display: flex; justify-content: center;"><img src='images/DeepIntactness2.svg' alt="sym" width="80%"></div>
--- 承担”图像的隧道围岩稳定性智能评估项目”，提出基于点云及SAM-ZRTM-ConvLSTM的掌子面岩体不连续面智能预测技术。经验证，该方法结果与开挖结果高度吻合；
+-- 承担”图像的隧道围岩稳定性智能评估项目”，提出基于点云及SAM-ZRTM-ConvLSTM的掌子面岩体不连续面智能预测技术。经验证，该方法结果与开挖结果高度吻合；<br>
 -- 承担”图像的隧道围岩稳定性智能评估项目”，完成基于多模态的智能勘察-施工-决策全流程智能助手TESSERACT大模型开发，目前模型已在国内大模型平台ModelScope开源；
 <div style="display: flex; justify-content: center;"><img src='images/zzmphoto1.svg' alt="sym" width="80%"></div>
 <div style="display: flex; justify-content: center;"><img src='images/zzmphoto2.svg' alt="sym" width="80%"></div>
@@ -191,6 +191,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="80%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
