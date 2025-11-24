@@ -87,7 +87,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Junjie Ma, Tianbin Li, `Gang Yang`, et al. A real-time intelligent classification model using machine learning for tunnel surrounding rock and its application. Georisk Assessment and Management of Risk for Engineered Systems and Geohazards*. 2022, 15 (20): 7362. (中科院3区;  IF:4.8)  
+- Junjie Ma, Tianbin Li, `Gang Yang`, et al. A real-time intelligent classification model using machine learning for tunnel surrounding rock and its application. Georisk Assessment and Management of Risk for Engineered Systems and Geohazards. 2022, 15 (20): 7362. (中科院3区;  IF:4.8)  
 [[网页]](https://doi.org/10.1080/17499518.2023.2182891)
 </div>
 </div>
@@ -205,6 +205,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="80%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
