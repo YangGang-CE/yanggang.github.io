@@ -62,7 +62,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/SAM-ZRTM-ConvLSTM.svg' alt="sym" width="100%"><img src="images/3dtunnelface.gif" alt="3D Tunnel Face point cloud" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Gang Yang`, Tianbin Li. Development of a 3D-point cloud-based spatiotemporal series model for tunnel rock mass discontinuities prediction. *Underground Space*, Accept. (中科院1区Top; IF:8.3)
+-	`Gang Yang`, Tianbin Li. Development of a 3D-point cloud-based spatiotemporal series model for tunnel rock mass discontinuities prediction. *Underground Space*,  (中科院1区Top; IF:8.3)
 [[网页]](https://www.sciencedirect.com/science/article/pii/S246796742500114X#ak005) 
 </div>
 </div>
@@ -86,9 +86,8 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div></div></div>
 <div class='paper-box-text' markdown="1">
-- Junjie Ma, Tianbin Li, `Gang Yang`, et al. A real-time intelligent classification model using machine learning for tunnel surrounding rock and its application. 
 
-*Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards*. 2022, 15 (20): 7362. (中科院3区;  IF:4.8)  
+- Junjie Ma, Tianbin Li, `Gang Yang`, et al. A real-time intelligent classification model using machine learning for tunnel surrounding rock and its application. Georisk Assessment and Management of Risk for Engineered Systems and Geohazards*. 2022, 15 (20): 7362. (中科院3区;  IF:4.8)  
 [[网页]](https://doi.org/10.1080/17499518.2023.2182891)
 </div>
 </div>
@@ -117,9 +116,10 @@ redirect_from:
 - Pin Zhang, `Gang Yang`. Standardising Data-Driven Modelling of Soil Correlations: Application to Compressibility Index. Geotechnique.(working paper, SCI submitted, 导师一作，学生二作) 
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div></div></div>
 <div class='paper-box-text' markdown="1">
--`Gang Yang`, Tianbin Li, Weiqi Guo. Self-Correcting Prediction of Rock Mass Structure Ahead of Tunnel Face: A Model-Driven and Observation-Corrected Loop. Journal of Rock Mechanics and Geotechnical Engineering.(working paper, SCI, Underview) 
+- `Gang Yang`, Tianbin Li, Weiqi Guo. Self-Correcting Prediction of Rock Mass Structure Ahead of Tunnel Face: A Model-Driven and Observation-Corrected Loop. Journal of Rock Mechanics and Geotechnical Engineering.(working paper, SCI, Underview) 
 </div>
 </div>
 
@@ -148,10 +148,10 @@ redirect_from:
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2024.11*, 第十二届全国工程地质大会 , 广东深圳, 受邀报告，获“优秀研究生报告奖”
+- *2024.11*, 第十二届全国工程地质大会 , 广东深圳, 作题名为“基于非地球物理勘探的隧道岩体结构面预测技术”报告，获“优秀研究生报告奖”
 <div style="display: flex; justify-content: center;"><img src='images/gongchengdizhi.svg' alt="sym" width="80%"></div>
 - *2023.10*, 2023中国隧道与地下工程大会（CTUC）暨中国土木工程学会隧道及地下工程分会第二十三届年会, 四川成都, 报告 [[新闻]](https://mp.weixin.qq.com/s/pvhMtcXdD0IVJtVvHVLjGg)  
-- *2023.09*, 第十四届国际工程地质与环境大会 (IAEG XIV Congress 2023), 受邀报告, 四川成都
+- *2023.09*, 第十四届国际工程地质与环境大会 (IAEG XIV Congress 2023), 作提名为“Development of a 3D-point cloud-based spatiotemporal series model for tunnel rock mass discontinuities prediction”, 四川成都
 <div style="display: flex; justify-content: center;"><img src='images/IAEG.svg' alt="sym" width="80%"></div>
 <div style="display: flex; justify-content: center;"><img src='images/IAEG2.svg' alt="sym" width="80%"></div>
 
@@ -205,6 +205,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="80%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
