@@ -62,7 +62,8 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/SAM-ZRTM-ConvLSTM.svg' alt="sym" width="100%"><img src="images/3dtunnelface.gif" alt="3D Tunnel Face point cloud" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Gang Yang`, Tianbin Li. Development of a 3D-point cloud-based spatiotemporal series model for tunnel rock mass discontinuities prediction. *Underground Space*, Accept. (中科院1区Top; IF:8.3)  
+-	`Gang Yang`, Tianbin Li. Development of a 3D-point cloud-based spatiotemporal series model for tunnel rock mass discontinuities prediction. *Underground Space*, Accept. (中科院1区Top; IF:8.3)
+[[网页]](https://www.sciencedirect.com/science/article/pii/S246796742500114X#ak005) 
 </div>
 </div>
 
@@ -85,7 +86,9 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div></div></div>
 <div class='paper-box-text' markdown="1">
-- Junjie Ma, Tianbin Li, `Gang Yang`, et al. A real-time intelligent classification model using machine learning for tunnel surrounding rock and its application. *Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards *. 2022, 15 (20): 7362. (中科院3区;  IF:4.8)  
+- Junjie Ma, Tianbin Li, `Gang Yang`, et al. A real-time intelligent classification model using machine learning for tunnel surrounding rock and its application. 
+
+*Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards*. 2022, 15 (20): 7362. (中科院3区;  IF:4.8)  
 [[网页]](https://doi.org/10.1080/17499518.2023.2182891)
 </div>
 </div>
@@ -114,6 +117,12 @@ redirect_from:
 - Pin Zhang, `Gang Yang`. Standardising Data-Driven Modelling of Soil Correlations: Application to Compressibility Index. Geotechnique.(working paper, SCI submitted, 导师一作，学生二作) 
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div></div></div>
+<div class='paper-box-text' markdown="1">
+-`Gang Yang`, Tianbin Li, Weiqi Guo. Self-Correcting Prediction of Rock Mass Structure Ahead of Tunnel Face: A Model-Driven and Observation-Corrected Loop. Journal of Rock Mechanics and Geotechnical Engineering.(working paper, SCI, Underview) 
+</div>
+</div>
+
 ### 中文
 ---
 - 陈卫东, 李天斌, 黄音昊, `杨罡`，王皓, 肖华波. 隧道围岩分级特征智能识别及可视化研究. *铁道科学与工程学报*. 2024,21(01): 406-421. (EI期刊)  
@@ -130,7 +139,12 @@ redirect_from:
 - *2020.12* 获得 第六届四川省“互联网+”创新创业大赛 `银奖`
 - *2021.07* 获得 中国共产主义青年团四川省委员会和四川省学生联合会大学生综合素质“A级证书”
 - *2021.11* 获得 “四川省优秀毕业生”荣誉称号
-
+- *2022.11* 获得 四川省教育厅研究生研究生三等学业奖学金
+- *2023.11* 获得 四川省教育厅研究生研究生二等学业奖学金
+- *2023.11* 获得 成都理工大学优秀研究生
+- *2024.11* 获得 四川省教育厅研究生研究生一等学业奖学金
+- *2024.11* 获得 成都理工大学优秀研究生
+- *2025.11* 获得 四川省教育厅研究生研究生一等学业奖学金
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
@@ -191,6 +205,7 @@ redirect_from:
 <div style="display: flex; justify-content: center;"><img src='images/violin.svg' alt="sym" width="80%"></div>
 - *软笔书法*
 - *篮球*
+
 
 
 
