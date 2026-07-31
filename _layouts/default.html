@@ -1,9 +1,40 @@
+---
+layout: compress
+---
+
 <!doctype html>
-<html lang="zh-CN">
-  <head>{% include head.html %}{% include head/custom.html %}</head>
-  <body class="academic-site">
-    <header class="site-header"><div class="site-header__inner"><a class="site-brand" href="{{ '/' | relative_url }}">GANG YANG <span>·</span> 杨罡</a><nav aria-label="页面导航"><a href="#about">简介</a><a href="#research">研究</a><a href="#publications">论文</a><a href="#projects">项目</a><a href="#contact">联系</a></nav></div></header>
-    <main>{{ content }}</main>
-    <footer class="site-footer"><div>© 2026 Gang Yang · Academic Homepage</div><div>Last updated: July 2026</div></footer>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
+    
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+
+    {% include scripts.html %}
+
+<div class="footer_site">
+<hr/>
+<div class="footer_copyright">
+  © 2025 成都理工大学 · 杨罡 | 严肃活泼团结紧张 
+</div>
+</div>
   </body>
 </html>
+
